@@ -8,7 +8,7 @@ awesome-streamlit==20191018.1
 awesome-streamlit-master==20200130.3
 backcall==0.1.0
 base58==2.0.0
-bleach==3.1.0
+bleach==3.3.0
 blinker==1.4
 boto3==1.9.96
 botocore==1.12.96
